@@ -9,7 +9,7 @@
 
 
 # ADS : SISTEMA DE ADS
-<p> Sistema que Gerencia banco de Germoplasma do IPEN,CEMIB
+<p> Sistema concluir a disciplina de WEB.
 </p>
 
 # VERSAO
