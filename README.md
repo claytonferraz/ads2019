@@ -17,6 +17,8 @@
   https://github.com/claytonferraz/laravel-6-crud
   
   https://itsolutionstuff.com/post/laravel-6-crud-application-tutorialexample.html
+  
+  https://voyager-docs.devdojo.com/getting-started/installation
 </p>
 
 # VERSAO
