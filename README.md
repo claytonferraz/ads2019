@@ -12,6 +12,11 @@
   
   https://backpackforlaravel.com/docs/4.0/demo
   
+  https://github.com/appzcoder/laravel-admin
+  
+  https://github.com/claytonferraz/laravel-6-crud
+  
+  https://itsolutionstuff.com/post/laravel-6-crud-application-tutorialexample.html
 </p>
 
 # VERSAO
